@@ -8,7 +8,7 @@
 &ensp;&ensp;&ensp;* mysql  
 &ensp;&ensp;&ensp;* jvm  
 &ensp;&ensp;**My hobby**:  
-&ensp;&ensp;&ensp;* Computer Game:  
+&ensp;&ensp;&ensp;* Computer Game  
 &ensp;&ensp;&ensp;* Sport  
 &ensp;&ensp;&ensp;* Read  
 &ensp;&ensp;&ensp;* Music  
